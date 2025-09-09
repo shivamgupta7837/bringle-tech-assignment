@@ -1,0 +1,1 @@
+const double screenPadding = 12.0;
