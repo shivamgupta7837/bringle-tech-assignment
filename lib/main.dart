@@ -1,6 +1,4 @@
 
-import 'package:face_filter/presentation/auth/login_page.dart';
-import 'package:face_filter/presentation/screens/insta.dart';
 import 'package:face_filter/presentation/screens/splash_screen.dart';
 import 'package:face_filter/services/share_pref/share_pref.dart';
 import 'package:face_filter/utils/themes/app_colors.dart';

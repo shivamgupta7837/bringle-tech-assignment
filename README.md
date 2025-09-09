@@ -42,8 +42,7 @@ Follow these simple steps to get the project running on your local machine.
   3. Step-by-Step Guide
 
   # Clone the Repository:
-  1. git clone [repository_url]
-  2. cd [repository_name]
+  1. git clone (https://github.com/shivamgupta7837/bringle-tech-assignment.git)
 
 # Install Dependencies:
   ## flutter pub get

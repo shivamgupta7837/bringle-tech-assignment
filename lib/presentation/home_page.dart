@@ -1,4 +1,4 @@
-import 'package:face_filter/presentation/screens/insta.dart';
+import 'package:face_filter/presentation/screens/color_filter.dart';
 import 'package:face_filter/services/share_pref/share_pref.dart';
 import 'package:face_filter/utils/themes/app_colors.dart';
 import 'package:face_filter/utils/themes/app_fonts.dart';
@@ -97,7 +97,7 @@ class HomePage extends StatelessWidget {
            Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => const FaceFilterApp(),
+              builder: (context) => const ColorFilter(),
             ),
           );
         },
